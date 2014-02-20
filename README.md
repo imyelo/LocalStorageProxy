@@ -1,2 +1,6 @@
 LocalStorageProxy
 =================
+
+## Dependencies
+underscore
+seajs
